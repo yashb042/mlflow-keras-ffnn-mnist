@@ -9,4 +9,4 @@ dependencies:
   - mlflow==1.5.0
   - boto3
   - keras
-  - tensorflow-gpu
+  - tensorflow
