@@ -12,7 +12,7 @@ entry_points:
       dropout: {type: float, default: 0.25}
       num-hidden-units: {type: int, default: 512}
     command: |
-          python train.py \
+          python3 train.py \
             --batch-size {batch-size} \
             --epochs {epochs} \
             --learning-rate {learning-rate} \
