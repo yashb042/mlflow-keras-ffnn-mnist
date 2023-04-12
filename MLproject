@@ -1,6 +1,6 @@
 name: train_keras_ffnn_model
 
-conda_env: conda.yaml
+python_env: python_env.yaml
 
 entry_points:
   main:
